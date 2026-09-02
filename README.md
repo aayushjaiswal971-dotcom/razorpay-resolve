@@ -10,7 +10,7 @@
 
 
 
-**!\[RazorPay Resolve Dashboard](assets/dashboard.png)**
+![RazorPay Resolve Dashboard](assets/dashboard.png)
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-**!\[AI Risk Dashboard](assets/ai-risk.png)**
+![AI Risk Dashboard](assets/ai-risk.png)
 
 
 
@@ -26,7 +26,7 @@
 
 
 
-**!\[Reconciliation Dashboard](assets/reconciliation.png)**
+![Reconciliation Dashboard](assets/reconciliation.png)
 
 
 
@@ -34,7 +34,7 @@
 
 
 
-**!\[Incident Copilot](assets/copilot.png)**
+![Incident Copilot](assets/copilot.png)
 
 
 
@@ -42,7 +42,7 @@
 
 
 
-**!\[Webhook API](assets/webhook-api.png)**
+![Webhook API](assets/webhook-api.png)
 
 ## 1\. The problem
 
